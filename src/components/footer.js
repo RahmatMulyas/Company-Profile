@@ -44,6 +44,7 @@ const Footer = () => {
             <div className="col-lg-12 my-3 d-flex flex-column justify-content-center">
                 <p className="text-xs text-white m-0 text-center">Code by <a href="https://www.permataazzurisehat.com" className="fw-bolder text-white decoration-none">www.permataazzurisehat.com</a></p>
                 <a href="https://www.freepik.com/vectors/people" className="mx-5 mx-md-0 text-white decoration-none text-xs text-center">People vector created by pikisuperstar and pch.vector from - www.freepik.com</a>
+                <p className="text-xs text-white m-0 text-center">Version : Beta, By <a href="https://www.permataazzurisehat.com" className="fw-bolder text-white decoration-none">www.permataazzurisehat.com</a></p>
             </div>
         </div>
         </>
