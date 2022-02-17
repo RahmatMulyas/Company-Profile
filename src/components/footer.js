@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="col-sm-12 col-lg-3 p-4 d-flex justify-content-center align-items-center">
                 <a className="text-white decoration-none d-flex justify-content-start flex-column">
                     {/* <span className="fs-4 fw-bolder">Permata Azzuri Sehat</span> */}
-                    <img src="/assets/img/logo4.png" style={{maxWidth: 300}}/>
+                    <img src="/assets/img/logonew.png" style={{maxWidth: 300}}/>
                     <span style={{fontSize: "0.8rem", marginTop: "1rem"}}> Kami Perusahaan start-up cloud healthcare. Kami membantu klient kami melakukan peningkatan kinerja yang langgeng dan mewujudkan tujuan terpenting mereka melalui aplikasi dan solusi bisnis terbaik</span>
                 </a>
             </div>
